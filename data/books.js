@@ -94,6 +94,78 @@ const books = [
         "author": "Flavio Copes",
         "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fpython04.pdf&client=web&scene=main",
         "cover": "images/TPH.jpg"
+    },
+    {
+        "title": "ASIC & INTERMEDIATE TIPS AND TRICKS",
+        "author": "Benjamin Bennett Alexander",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fpython03.pdf&client=web&scene=main",
+        "cover": "images/python02.jpg"
+    },
+    {
+        "title": "Algoritma & Struktur Data dengan Python 3",
+        "author": "Khoirudin",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fpython02.pdf&client=web&scene=main=main",
+        "cover": "images/python03.jpg"
+    },
+    {
+        "title": "Teori & Implementasi Pemrograman C#",
+        "author": "Asrianda",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fpemrograman01.pdf&client=web&scene=main",
+        "cover": "images/csharp.jpg"
+    },
+    {
+        "title": "Python in Practice",
+        "author": "Developer's Library",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fpython01.pdf&client=web&scene=main",
+        "cover": "images/python04.jpg"
+    },
+    {
+        "title": "Modul Teori Jaringan Komputer",
+        "author": "Universitas AMIKOM Yogyakarta",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fmodul01.pdf&client=web&scene=main",
+        "cover": "images/jarkom.jpg"
+    },
+    {
+        "title": "Pemrograman Java untuk Pemula",
+        "author": "Budi Hardono",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fjava.pdf&client=web&scene=main",
+        "cover": "images/java.jpg"
+    },
+    {
+        "title": "Keamanan siber – Pedoman untuk keamanan Internet",
+        "author": "Rancangan Standar Nasional Indonesia 3",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fiso27001.pdf&client=web&scene=main",
+        "cover": "images/cyber.jpg"
+    },
+    {
+        "title": "Beginning Ethical Hacking with Python",
+        "author": "Sanjib Sinha",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fethicalhacking.pdf&client=web&scene=main",
+        "cover": "images/hack.jpg"
+    },
+    {
+        "title": "Docker #1 : Pengenalan, Intalasi dan Penggunaan Dasar",
+        "author": "Indonesia Open University",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fdocker03.pdf&client=web&scene=main",
+        "cover": "images/docker03.jpg"
+    },
+    {
+        "title": "The Black Cat’s Letter and Other Stories",
+        "author": "tudents of English Literature 2018",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fnovel01.pdf&client=web&scene=main",
+        "cover": "images/thebackcats.jpg"
+    },
+    {
+        "title": "Falsafah Hidup",
+        "author": "HAMKA",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Ffilsafathidup.pdf&client=web&scene=main",
+        "cover": "images/fh.jpg"
+    },
+    {
+        "title": "Pengantar Filsafat Ilmu",
+        "author": "Suaedi",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Ffilsafat%20ilmu.pdf&client=web&scene=main",
+        "cover": "images/FI.jpg"
     }
 
 ];
