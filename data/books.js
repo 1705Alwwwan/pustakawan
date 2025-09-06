@@ -72,10 +72,28 @@ const books = [
         "cover": "images/docker02.jpg"
     },
     {
-        "title": "Minna no Nihongo 2",
+        "title": "Belajar Bahasa Jepang - Minna no Nihongo 1",
+        "author": "CV Lintas Cipta Pustaka",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fmnn01.pdf&client=web&scene=main",
+        "cover": "images/mnn02.jpg"
+    },
+    {
+        "title": "Belajar Bahasa Jepang - Minna no Nihongo 2",
         "author": "CV Lintas Cipta Pustaka",
         "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fmnn02.pdf&client=web&scene=main",
         "cover": "images/mnn02.jpg"
+    },
+    {
+        "title": "Belajar Bahasa Jepang - Easy Japanese",
+        "author": "Japan Foundation",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fjapanbasic.pdf&client=web&scene=main",
+        "cover": "images/ej.jpg"
+    },
+    {
+        "title": "The Python Handbook",
+        "author": "Flavio Copes",
+        "file": "https://dm.terabox.com/pfile/docview?path=%2Fbuku%2Fpython04.pdf&client=web&scene=main",
+        "cover": "images/TPH.jpg"
     }
 
 ];
